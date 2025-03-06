@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel Pit
 Back End Developer
 ------------------
 
-I started learning to code in 2022, focusing on backend development with Java. After completing the Santander Bootcamp 2023, I’ve gained practical experience in Java, SQL, and NoSQL. I’m passionate about solving technical challenges and am excited to continue growing in the backend development field.
+I began my journey in programming with a focus on backend development, specializing in Java. Through the Santander Bootcamp, I gained hands-on experience working with Java, SQL, and NoSQL databases. I'm passionate about building efficient backend solutions and continuously improving my skills to stay current with the latest technologies.
 
 * 🌍  I'm based in Gravatai-RS, Brazil
 * 🧠  I'm learning Java and Spring Boot
