@@ -1,21 +1,23 @@
 Hi 👋 My name is Gabriel Pit
 ============================
 
-Back End Developer
+NOC Intern | Python & Cybersecurity Student
 ------------------
 
-I began my journey in programming with a focus on backend development, specializing in Java. Through the Santander Bootcamp, I gained hands-on experience working with Java, SQL, and NoSQL databases. I'm passionate about building efficient backend solutions and continuously improving my skills to stay current with the latest technologies.
+I'm currently working as a NOC Intern, monitoring network infrastructure and learning how to automate security tasks with Python.
 
-* 🌍  I'm based in Gravatai-RS, Brazil
-* 🧠  I'm learning Java and Spring Boot
-* 🤝  I'm open to collaborating on Interesting backend projects
+* 🌍  I'm based in Gravataí-RS, Brazil.
+* 🛰️ NOC Intern: Monitoring network health, managing alerts, and responding to infrastructure incidents.
+* 🐍 Python & Data: Currently mastering Python to automate log analysis and security reporting.
+* 🛡️ Goal: Transitioning into SOC by combining network experience with automation and threat intelligence.
 
 ### Skills
 
+Infrastructure: Network Monitoring (NOC), TCP/IP, Linux.
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+Coding: Python (Focus on Data/Automation), Java, SQL.
+
+Tools: Git, VS Code, Linux Terminal.
 
 
 ### Socials
