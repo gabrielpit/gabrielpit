@@ -13,10 +13,10 @@ Analyst role — combining my network background with threat detection and defen
   detection engineering and incident response.
 
 ### Skills
-**Security:** SOC Fundamentals, Incident Triage, MITRE ATT&CK (studying), SIEM (Wazuh - lab),
+**Security:** SOC Fundamentals, Incident Triage, SIEM,
 Network Security, TCP/IP.
 **Infrastructure:** Network Monitoring (NOC), Linux, TCP/IP.
-**Tools:** Git, VS Code, Linux Terminal, Wireshark, Wazuh (lab).
+**Tools:** Git, VS Code, Linux Terminal, Wireshark, Wazuh.
 
 
 ### Socials
