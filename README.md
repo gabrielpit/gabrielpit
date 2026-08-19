@@ -1,23 +1,22 @@
 Hi 👋 My name is Gabriel Pit
 ============================
-
-NOC Intern | Python & Cybersecurity Student
+NOC/SOC Support Analyst | Cybersecurity Student
 ------------------
+I currently work as a NOC/SOC Support Analyst, monitoring infrastructure and handling
+first-level incident response. I'm actively building the skills to move into a full SOC
+Analyst role — combining my network background with threat detection and defense.
 
-I'm currently working as a NOC Intern, monitoring network infrastructure and learning how to automate security tasks with Python.
-
-* 🌍  I'm based in Gravataí-RS, Brazil.
-* 🛰️ NOC Intern: Monitoring network health, managing alerts, and responding to infrastructure incidents.
-* 🐍 Python & Data: Currently mastering Python to automate log analysis and security reporting.
-* 🛡️ Goal: Transitioning into SOC by combining network experience with automation and threat intelligence.
+* 🌍 Based in Gravataí-RS, Brazil.
+* 🛰️ NOC/SOC Analyst: Monitoring network & security infrastructure, triaging alerts,
+  and escalating/responding to incidents.
+* 🎯 Goal: Transitioning from N1 support into a SOC Analyst role, focused on
+  detection engineering and incident response.
 
 ### Skills
-
-Infrastructure: Network Monitoring (NOC), TCP/IP, Linux.
-
-Coding: Python (Focus on Data/Automation), Java, SQL.
-
-Tools: Git, VS Code, Linux Terminal.
+**Security:** SOC Fundamentals, Incident Triage, MITRE ATT&CK (studying), SIEM (Wazuh - lab),
+Network Security, TCP/IP.
+**Infrastructure:** Network Monitoring (NOC), Linux, TCP/IP.
+**Tools:** Git, VS Code, Linux Terminal, Wireshark, Wazuh (lab).
 
 
 ### Socials
