@@ -1,22 +1,14 @@
-Hi 👋 My name is Gabriel Pit
-============================
-NOC/SOC Support Analyst | Cybersecurity Student
-------------------
-I currently work as a NOC/SOC Support Analyst, monitoring infrastructure and handling
-first-level incident response. I'm actively building the skills to move into a full SOC
-Analyst role — combining my network background with threat detection and defense.
+# Gabriel Pit
 
-* 🌍 Based in Gravataí-RS, Brazil.
-* 🛰️ NOC/SOC Analyst: Monitoring network & security infrastructure, triaging alerts,
-  and escalating/responding to incidents.
-* 🎯 Goal: Transitioning from N1 support into a SOC Analyst role, focused on
-  detection engineering and incident response.
+NOC/SOC Support Analyst transitioning into a SOC Analyst role, with focus on
+detection and incident response.
 
-### Skills
-**Security:** SOC Fundamentals, Incident Triage, SIEM,
-Network Security, TCP/IP.
-**Infrastructure:** Network Monitoring (NOC), Linux, TCP/IP.
-**Tools:** Git, VS Code, Linux Terminal, Wireshark, Wazuh.
+## Background
+
+Currently working as a NOC/SOC Support Analyst, responsible for infrastructure
+monitoring, alert triage, and first-level incident response. Building toward a
+SOC Analyst position by developing skills in detection engineering, threat
+analysis, and defensive security practices.
 
 
 ### Socials
